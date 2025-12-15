@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>srblog</title>
+    <link>https://sumit-og.github.io/srblog/</link>
+    <description>Recent content on srblog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://sumit-og.github.io/srblog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to srblog</title>
+      <link>https://sumit-og.github.io/srblog/posts/first-post/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://sumit-og.github.io/srblog/posts/first-post/</guid>
+      <description>&lt;p&gt;This is &lt;strong&gt;srblog&lt;/strong&gt;, a free and open blog.&lt;/p&gt;&#xA;&lt;p&gt;Built using Hugo and GitHub Pages.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
